@@ -1,4 +1,4 @@
-First sort the data into the following directory format:-
+First sort the data into the following directory format:- 
 Main Folder:
   Sub Folder 1:
     Replay_x.json
